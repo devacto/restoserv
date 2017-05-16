@@ -1,0 +1,19 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Tokaikan Japanese Restaurant",
+      "pic": "https://static.eatigo.com/eatigo_TokaikanJapaneseRestaurant_20170214152650_9784.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Umi+Vino Seafood Wine Bar @ Emporium Shokuhin",
+      "pic": "https://static.eatigo.com/eatigo_UmiVinoSeafoodWineBarEmporiumShokuhin_20160812132655_9315.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Akai Fune Japanese Restaurant",
+      "pic": "https://static.eatigo.com/eatigo_AkaiFuneJapaneseRestaurant_20140923090743_8964.jpg"
+    }
+  ]
+}
